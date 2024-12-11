@@ -1,0 +1,24 @@
+{
+  "name": "seat-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik-1732/Seat-Booking.git"
+  },
+  "author": "Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratik-1732/Seat-Booking/issues"
+  },
+  "homepage": "https://github.com/pratik-1732/Seat-Booking#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.1.7"
+  }
+}
